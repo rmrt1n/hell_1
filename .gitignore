@@ -5,3 +5,5 @@
 **/*.json
 **/*.csv
 model
+**/node_modules
+**/uploads
